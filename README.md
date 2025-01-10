@@ -1,2 +1,2 @@
 # Countdown-Timer
-JavaScript project of countdown timer
+JavaScript project
